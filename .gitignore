@@ -1,12 +1,8 @@
-.idea/workspace.xml
-__pycache__/
-*.py[cod]
-*$py.class
-.pytest_cache/
-venv/
-env/
-*.egg-info/
-
-# IDE
-.vscode/
-.idea/misc.xml
+/__pycache__
+/db
+/.idea
+*.pdf
+*.xlsx
+/tg_support_bot/db_bot
+/static/images/items_images
+.gitattributes
